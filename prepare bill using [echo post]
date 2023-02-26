@@ -6,8 +6,8 @@
     <form action="" method="POST" >
       <h1><center>ENTER THE DETAILS</center></h1>
       <h3>Enter item name<input type=text name=itemname></h3>
-      <h3>Enter item quantity<input type=number name=itemquan></h3>
-      <h3>Enter item rate<input type=number name=itemrate></h3>
+      <h3>Enter item quantity<input type=text name=itemquan></h3>
+      <h3>Enter item rate<input type=text name=itemrate></h3>
       <input type="submit" />
     </form>
   </body>
